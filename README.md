@@ -1,5 +1,5 @@
-Writing Python at [`@elastic`](https://github.com/elastic) and maintaining [urllib3](https://github.com/urllib3/urllib3) and related projects.
-Follow [`@sethmlarson` on Twitter](https://twitter.com/sethmlarson) and check out my [tech blog](https://sethmlarson.dev).
+Writing Python at [Elastic](https://github.com/elastic) and maintaining [urllib3](https://github.com/urllib3/urllib3) and related projects.
+Follow [@sethmlarson on Twitter](https://twitter.com/sethmlarson) and check out my [tech blog](https://sethmlarson.dev).
 
 <table><tr><td valign="top">
 
