@@ -12,8 +12,8 @@ other_content = [
     },
     {
         "title": "Introduction to Eland: Explore and analyze data in Elasticsearch with a Pandas-compatible API",
-        "link": "https://community.elastic.co/events/details/elastic-emea-virtual-presents-introduction-into-eland-a-python-package-to-analyse-explore-and-manipulate-elasticsearch-data",
-        "published": "2020-07-08"
+        "link": "https://www.youtube.com/watch?v=U8fnkzp_sfo",
+        "published": "2020-07-10"
     },
     {
         "title": "Eland Demo Jupyter Notebook",
