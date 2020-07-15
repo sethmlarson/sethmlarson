@@ -8,23 +8,28 @@ other_content = [
     {
         "title": "Introduction to the Python Elasticsearch Client",
         "link": "https://community.elastic.co/events/details/elastic-emea-virtual-presents-introduction-into-the-python-elasticsearch-client",
-        "published": "2020-08-05"
+        "published": "2020-08-05",
+    },
+    {
+        "title": "Elasticsearch Python client now supports async I/O",
+        "link": "https://www.elastic.co/blog/elasticsearch-python-client-now-supports-asyncio",
+        "published": "2020-07-15",
     },
     {
         "title": "Introduction to Eland: Explore and analyze data in Elasticsearch with a Pandas-compatible API",
         "link": "https://www.youtube.com/watch?v=U8fnkzp_sfo",
-        "published": "2020-07-10"
+        "published": "2020-07-10",
     },
     {
         "title": "Eland Demo Jupyter Notebook",
         "link": "https://eland.readthedocs.io/en/latest/examples/introduction_to_eland_webinar.html",
-        "published": "2020-07-08"
+        "published": "2020-07-08",
     },
     {
         "title": "Native async support in Elasticsearch Python client",
         "link": "https://elasticsearch-py.readthedocs.io/en/master/async.html",
-        "published": "2020-06-18"
-    }
+        "published": "2020-06-18",
+    },
 ]
 
 
@@ -64,8 +69,10 @@ def main():
     # Updating other content
     today = time.gmtime(time.time())[:3]
     other_lines = []
-    for entry in other_content:
-        is_upcoming = tuple([int(x.lstrip("0")) for x in entry['published'].split("-")]) > today
+    for entry in sorted(other_content, key=lambda x: x["published"], reverse=True)[-5:]:
+        is_upcoming = (
+            tuple([int(x.lstrip("0")) for x in entry["published"].split("-")]) > today
+        )
         other_lines.append(
             f"* {'**(Upcoming)** ' if is_upcoming else ''}[{entry['title']}]({entry['link']}) {entry['published']}"
         )
