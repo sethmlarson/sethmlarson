@@ -5,11 +5,11 @@ Follow [`@sethmlarson` on Twitter](https://twitter.com/sethmlarson) and check ou
 
 ### On my blog
 <!-- blog starts -->
+* [TIL: Getting HTTP Status Codes from Flask errorhandler](http://sethmlarson.dev/blog/2020-07-24/til-getting-http-status-codes-from-flask-errorhandler) 2020-07-24
 * [Designing Libraries for Async and Sync I/O](http://sethmlarson.dev/blog/2020-06-27/designing-libraries-for-async-and-sync-io) 2020-06-27
 * [Why URLs are Hard: Path Params & urlparse](http://sethmlarson.dev/blog/2020-04-10/why-urls-are-hard-path-params-urlparse) 2020-04-10
 * [urllib3 in 2020](http://sethmlarson.dev/blog/2020-03-14/urllib3-in-2020) 2020-03-14
 * [Review of 2019 for urllib3](http://sethmlarson.dev/blog/2019-12-28/review-of-2019-for-urllib3) 2019-12-28
-* [HTTP Header Compression](http://sethmlarson.dev/blog/2019-12-06/http-header-compression) 2019-12-06
 <!-- blog ends -->
 More posts on [sethmlarson.dev](https://sethmlarson.dev)
 </td><td valign="top">
