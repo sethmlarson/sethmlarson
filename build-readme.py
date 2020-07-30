@@ -30,11 +30,6 @@ other_content = [
         "link": "https://eland.readthedocs.io/en/latest/examples/introduction_to_eland_webinar.html",
         "published": "2020-07-08",
     },
-    {
-        "title": "DOCS: Native async support in Elasticsearch Python client",
-        "link": "https://elasticsearch-py.readthedocs.io/en/master/async.html",
-        "published": "2020-06-18",
-    },
 ]
 
 
