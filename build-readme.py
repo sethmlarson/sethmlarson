@@ -6,27 +6,32 @@ import feedparser
 html_braces = re.compile(r"<!-- ([a-z]+) (starts|ends) -->")
 other_content = [
     {
-        "title": "Introduction to the Python Elasticsearch Client",
+        "title": "TALK: DataFrames and Machine Learning powered by Elasticsearch",
+        "link": "https://pydata.org/la2020",
+        "published": "2020-08-22",
+    },
+    {
+        "title": "TALK: Introduction to the Python Elasticsearch Client",
         "link": "https://community.elastic.co/events/details/elastic-emea-virtual-presents-introduction-into-the-python-elasticsearch-client",
         "published": "2020-08-05",
     },
     {
-        "title": "Elasticsearch Python client now supports async I/O",
+        "title": "BLOG: Elasticsearch Python client now supports async I/O",
         "link": "https://www.elastic.co/blog/elasticsearch-python-client-now-supports-asyncio",
         "published": "2020-07-15",
     },
     {
-        "title": "Introduction to Eland: Explore and analyze data in Elasticsearch with a Pandas-compatible API",
+        "title": "TALK: Introduction to Eland: Explore and analyze data in Elasticsearch with a Pandas-compatible API",
         "link": "https://www.youtube.com/watch?v=U8fnkzp_sfo",
         "published": "2020-07-10",
     },
     {
-        "title": "Eland Demo Jupyter Notebook",
+        "title": "PROJECT: Eland Demo Jupyter Notebook",
         "link": "https://eland.readthedocs.io/en/latest/examples/introduction_to_eland_webinar.html",
         "published": "2020-07-08",
     },
     {
-        "title": "Native async support in Elasticsearch Python client",
+        "title": "DOCS: Native async support in Elasticsearch Python client",
         "link": "https://elasticsearch-py.readthedocs.io/en/master/async.html",
         "published": "2020-06-18",
     },
