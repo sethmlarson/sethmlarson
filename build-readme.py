@@ -6,11 +6,6 @@ import feedparser
 html_braces = re.compile(r"<!-- ([a-z]+) (starts|ends) -->")
 other_content = [
     {
-        "title": "TALK: DataFrames and Machine Learning powered by Elasticsearch",
-        "link": "https://pydata.org/la2020",
-        "published": "2020-08-22",
-    },
-    {
         "title": "TALK: Introduction to the Python Elasticsearch Client",
         "link": "https://community.elastic.co/events/details/elastic-emea-virtual-presents-introduction-into-the-python-elasticsearch-client",
         "published": "2020-08-05",
@@ -29,6 +24,11 @@ other_content = [
         "title": "PROJECT: Eland Demo Jupyter Notebook",
         "link": "https://eland.readthedocs.io/en/latest/examples/introduction_to_eland_webinar.html",
         "published": "2020-07-08",
+    },
+    {
+        "title": "DOCS: Native async support in Elasticsearch Python client",
+        "link": "https://elasticsearch-py.readthedocs.io/en/master/async.html",
+        "published": "2020-06-18",
     },
 ]
 
