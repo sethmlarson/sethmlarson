@@ -16,7 +16,7 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 
 ### Other content
 <!-- other starts -->
-* **(Upcoming)** [TALK: Introduction to the Python Elasticsearch Client](https://community.elastic.co/events/details/elastic-emea-virtual-presents-introduction-into-the-python-elasticsearch-client) 2020-08-05
+* [TALK: Introduction to the Python Elasticsearch Client](https://community.elastic.co/events/details/elastic-emea-virtual-presents-introduction-into-the-python-elasticsearch-client) 2020-08-05
 * [BLOG: Elasticsearch Python client now supports async I/O](https://www.elastic.co/blog/elasticsearch-python-client-now-supports-asyncio) 2020-07-15
 * [TALK: Introduction to Eland: Explore and analyze data in Elasticsearch with a Pandas-compatible API](https://www.youtube.com/watch?v=U8fnkzp_sfo) 2020-07-10
 * [PROJECT: Eland Demo Jupyter Notebook](https://eland.readthedocs.io/en/latest/examples/introduction_to_eland_webinar.html) 2020-07-08
