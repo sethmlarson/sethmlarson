@@ -9,7 +9,7 @@ other_content = [
         "title": "INTERVIEW: How urllib3 maintainer Seth Larson streamlined the release process",
         "link": "https://dev.to/tidelift/how-urllib3-maintainer-seth-larson-streamlined-the-release-process-173d",
         "published": "2020-08-18",
-    }
+    },
     {
         "title": "TALK: Introduction to the Python Elasticsearch Client",
         "link": "https://community.elastic.co/events/details/elastic-emea-virtual-presents-introduction-into-the-python-elasticsearch-client",
