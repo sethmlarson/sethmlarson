@@ -7,7 +7,7 @@ html_braces = re.compile(r"<!-- ([a-z]+) (starts|ends) -->")
 other_content = [
     {
         "title": "INTERVIEW: How urllib3 maintainer Seth Larson streamlined the release process",
-        "link": "https://dev.to/tidelift/how-urllib3-maintainer-seth-larson-streamlined-the-release-process-173d",
+        "link": "https://blog.tidelift.com/how-urllib3-maintainer-seth-larson-streamlined-the-release-process",
         "published": "2020-08-18",
     },
     {
