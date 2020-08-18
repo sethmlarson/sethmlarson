@@ -16,7 +16,7 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 
 ### Other content
 <!-- other starts -->
-* [INTERVIEW: How urllib3 maintainer Seth Larson streamlined the release process](https://blog.tidelift.com/how-urllib3-maintainer-seth-larson-streamlined-the-release-process) 2020-08-18
+* [INTERVIEW: How urllib3 maintainer Seth Larson streamlined the release process](https://dev.to/tidelift/how-urllib3-maintainer-seth-larson-streamlined-the-release-process-173d) 2020-08-18
 * [TALK: Introduction to the Python Elasticsearch Client](https://community.elastic.co/events/details/elastic-emea-virtual-presents-introduction-into-the-python-elasticsearch-client) 2020-08-05
 * [BLOG: Elasticsearch Python client now supports async I/O](https://www.elastic.co/blog/elasticsearch-python-client-now-supports-asyncio) 2020-07-15
 * [TALK: Introduction to Eland: Explore and analyze data in Elasticsearch with a Pandas-compatible API](https://www.youtube.com/watch?v=U8fnkzp_sfo) 2020-07-10
