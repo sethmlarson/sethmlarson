@@ -6,6 +6,11 @@ import feedparser
 html_braces = re.compile(r"<!-- ([a-z]+) (starts|ends) -->")
 other_content = [
     {
+        "title": "TALK: Introduction into the Elasticsearch Python Client",
+        "link": "https://www.youtube.com/watch?v=UWR9G-U88X0",
+        "published": "2020-09-10",
+    },
+    {
         "title": "INTERVIEW: How urllib3 maintainer Seth Larson streamlined the release process",
         "link": "https://blog.tidelift.com/how-urllib3-maintainer-seth-larson-streamlined-the-release-process",
         "published": "2020-08-18",
@@ -24,11 +29,6 @@ other_content = [
         "title": "TALK: Introduction to Eland: Explore and analyze data in Elasticsearch with a Pandas-compatible API",
         "link": "https://www.youtube.com/watch?v=U8fnkzp_sfo",
         "published": "2020-07-10",
-    },
-    {
-        "title": "PROJECT: Eland Demo Jupyter Notebook",
-        "link": "https://eland.readthedocs.io/en/latest/examples/introduction_to_eland_webinar.html",
-        "published": "2020-07-08",
     },
 ]
 
