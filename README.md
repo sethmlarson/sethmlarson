@@ -16,10 +16,10 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 
 ### Other content
 <!-- other starts -->
+* **(Upcoming)** [TALK: Bridge the Gap: Python Data Science and Elasticsearch (EMEA/APAC)](https://www.elastic.co/elasticon/global/agenda?day=day-2&solutionProduct=null&type=null&technicalLevel=null) 2020-10-15
+* **(Upcoming)** [TALK: Bridge the Gap: Python Data Science and Elasticsearch (AMER)](https://www.elastic.co/elasticon/global/agenda?day=day-1&solutionProduct=null&type=null&technicalLevel=null) 2020-10-14
 * [TALK: Introduction into the Elasticsearch Python Client](https://www.youtube.com/watch?v=UWR9G-U88X0) 2020-09-10
 * [INTERVIEW: How urllib3 maintainer Seth Larson streamlined the release process](https://blog.tidelift.com/how-urllib3-maintainer-seth-larson-streamlined-the-release-process) 2020-08-18
 * [TALK: Introduction to the Python Elasticsearch Client](https://community.elastic.co/events/details/elastic-emea-virtual-presents-introduction-into-the-python-elasticsearch-client) 2020-08-05
-* [BLOG: Elasticsearch Python client now supports async I/O](https://www.elastic.co/blog/elasticsearch-python-client-now-supports-asyncio) 2020-07-15
-* [TALK: Introduction to Eland: Explore and analyze data in Elasticsearch with a Pandas-compatible API](https://www.youtube.com/watch?v=U8fnkzp_sfo) 2020-07-10
 <!-- other ends -->
 </td></tr></table>
