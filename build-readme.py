@@ -6,6 +6,16 @@ import feedparser
 html_braces = re.compile(r"<!-- ([a-z]+) (starts|ends) -->")
 other_content = [
     {
+        "title": "TALK: Bridge the Gap: Python Data Science and Elasticsearch (EMEA/APAC)",
+        "link": "https://www.elastic.co/elasticon/global/agenda?day=day-2&solutionProduct=null&type=null&technicalLevel=null",
+        "published": "2020-10-15",
+    },
+    {
+        "title": "TALK: Bridge the Gap: Python Data Science and Elasticsearch (AMER)",
+        "link": "https://www.elastic.co/elasticon/global/agenda?day=day-1&solutionProduct=null&type=null&technicalLevel=null",
+        "published": "2020-10-14",
+    },
+    {
         "title": "TALK: Introduction into the Elasticsearch Python Client",
         "link": "https://www.youtube.com/watch?v=UWR9G-U88X0",
         "published": "2020-09-10",
@@ -19,16 +29,6 @@ other_content = [
         "title": "TALK: Introduction to the Python Elasticsearch Client",
         "link": "https://community.elastic.co/events/details/elastic-emea-virtual-presents-introduction-into-the-python-elasticsearch-client",
         "published": "2020-08-05",
-    },
-    {
-        "title": "BLOG: Elasticsearch Python client now supports async I/O",
-        "link": "https://www.elastic.co/blog/elasticsearch-python-client-now-supports-asyncio",
-        "published": "2020-07-15",
-    },
-    {
-        "title": "TALK: Introduction to Eland: Explore and analyze data in Elasticsearch with a Pandas-compatible API",
-        "link": "https://www.youtube.com/watch?v=U8fnkzp_sfo",
-        "published": "2020-07-10",
     },
 ]
 
