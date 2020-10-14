@@ -17,7 +17,7 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 ### Other content
 <!-- other starts -->
 * **(Upcoming)** [TALK: Bridge the Gap: Python Data Science and Elasticsearch (EMEA/APAC)](https://www.elastic.co/elasticon/global/agenda?day=day-2&solutionProduct=null&type=null&technicalLevel=null) 2020-10-15
-* **(Upcoming)** [TALK: Bridge the Gap: Python Data Science and Elasticsearch (AMER)](https://www.elastic.co/elasticon/global/agenda?day=day-1&solutionProduct=null&type=null&technicalLevel=null) 2020-10-14
+* [TALK: Bridge the Gap: Python Data Science and Elasticsearch (AMER)](https://www.elastic.co/elasticon/global/agenda?day=day-1&solutionProduct=null&type=null&technicalLevel=null) 2020-10-14
 * [TALK: Introduction into the Elasticsearch Python Client](https://www.youtube.com/watch?v=UWR9G-U88X0) 2020-09-10
 * [INTERVIEW: How urllib3 maintainer Seth Larson streamlined the release process](https://blog.tidelift.com/how-urllib3-maintainer-seth-larson-streamlined-the-release-process) 2020-08-18
 * [TALK: Introduction to the Python Elasticsearch Client](https://community.elastic.co/events/details/elastic-emea-virtual-presents-introduction-into-the-python-elasticsearch-client) 2020-08-05
