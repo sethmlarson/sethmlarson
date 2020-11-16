@@ -1,35 +1,47 @@
-import time
+import json
 import re
 import feedparser
+import urllib3
+from dateutil import parser
 
 
 html_braces = re.compile(r"<!-- ([a-z]+) (starts|ends) -->")
-other_content = [
-    {
-        "title": "TALK: Bridge the Gap: Python Data Science and Elasticsearch (EMEA/APAC)",
-        "link": "https://www.elastic.co/elasticon/global/agenda?day=day-2&solutionProduct=null&type=null&technicalLevel=null",
-        "published": "2020-10-15",
-    },
-    {
-        "title": "TALK: Bridge the Gap: Python Data Science and Elasticsearch (AMER)",
-        "link": "https://www.elastic.co/elasticon/global/agenda?day=day-1&solutionProduct=null&type=null&technicalLevel=null",
-        "published": "2020-10-14",
-    },
-    {
-        "title": "TALK: Introduction into the Elasticsearch Python Client",
-        "link": "https://www.youtube.com/watch?v=UWR9G-U88X0",
-        "published": "2020-09-10",
-    },
-    {
-        "title": "INTERVIEW: How urllib3 maintainer Seth Larson streamlined the release process",
-        "link": "https://blog.tidelift.com/how-urllib3-maintainer-seth-larson-streamlined-the-release-process",
-        "published": "2020-08-18",
-    },
-    {
-        "title": "TALK: Introduction to the Python Elasticsearch Client",
-        "link": "https://community.elastic.co/events/details/elastic-emea-virtual-presents-introduction-into-the-python-elasticsearch-client",
-        "published": "2020-08-05",
-    },
+http = urllib3.PoolManager()
+pypi_projects = [
+    "urllib3",
+    "elastic-enterprise-search",
+    "elasticsearch7",
+    "elasticsearch",
+    "psl",
+    "eland",
+    "pyvbox",
+    "virtualbox",
+    "elastic-transport",
+    "hstspreload",
+    "sniffio",
+    "unasync",
+    "elastic-cloud",
+    "h2",
+    "elasticsearch7-dsl",
+    "elasticsearch-dsl",
+    "elastic-app-search",
+    "selectors2",
+    "elasticsearch6-dsl",
+    "elasticsearch8-dsl",
+    "elasticsearch8",
+    "elasticsearch9",
+    "elasticsearch9-dsl",
+    "socksio",
+    "rfc3986",
+    "elasticsearch-dsl-async",
+    "elasticsearch-async",
+    "trustme-cli",
+    "irl",
+    "win-inet-pton",
+    "whatwg-url",
+    "brotlipy",
+    "brotlicffi",
+    "requests",
 ]
 
 
@@ -52,6 +64,22 @@ def replace_lines(brace_name, lines, replacement):
     return replaced_lines
 
 
+def get_latest_pypi_releases():
+    releases = []
+    for project in pypi_projects:
+        resp = http.request("GET", f"https://pypi.org/pypi/{project}/json")
+        if resp.status == 200:
+            data = json.loads(resp.data.decode("utf-8"))
+            for version, release in data["releases"].items():
+                try:
+                    uploaded_at = max([parser.parse(x["upload_time_iso_8601"]) for x in release])
+                    releases.append((f"{project}-{version}", uploaded_at, f"https://pypi.org/project/{project}/{version}"))
+                except ValueError:
+                    continue
+
+    return [{"title": r[0], "published": str(r[1].date()), "link": r[2]} for r in sorted(releases, key=lambda x: x[1], reverse=True)][:10]
+
+
 def main():
     with open("README.md") as f:
         lines = f.read().split("\n")
@@ -67,16 +95,13 @@ def main():
     lines = replace_lines("blog", lines, blog_lines)
 
     # Updating other content
-    today = time.gmtime(time.time())[:3]
-    other_lines = []
-    for entry in sorted(other_content, key=lambda x: x["published"], reverse=True)[-5:]:
-        is_upcoming = (
-            tuple([int(x.lstrip("0")) for x in entry["published"].split("-")]) > today
+    release_lines = []
+    releases = get_latest_pypi_releases()
+    for entry in releases:
+        release_lines.append(
+            f"* [{entry['title']}]({entry['link']}) {entry['published']}"
         )
-        other_lines.append(
-            f"* {'**(Upcoming)** ' if is_upcoming else ''}[{entry['title']}]({entry['link']}) {entry['published']}"
-        )
-    lines = replace_lines("other", lines, other_lines)
+    lines = replace_lines("other", lines, release_lines)
 
     with open("README.md", "w") as f:
         f.write("\n".join(lines).rstrip() + "\n")

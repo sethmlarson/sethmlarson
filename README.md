@@ -1,9 +1,6 @@
-Writing Python at [Elastic](https://github.com/elastic) and maintaining [urllib3](https://github.com/urllib3/urllib3) and related projects.
-Follow [`@sethmlarson` on Twitter](https://twitter.com/sethmlarson) and check out my [tech blog](https://sethmlarson.dev).
-
 <table><tr><td valign="top">
 
-### On my blog
+### 📰 Blog
 <!-- blog starts -->
 * [urllib3 Newsletter #2](http://sethmlarson.dev/blog/2020-11-13/urllib3-newsletter-2) 2020-11-13
 * [urllib3 Newsletter #1](http://sethmlarson.dev/blog/2020-10-05/urllib3-newsletter-september-2020) 2020-10-05
@@ -14,12 +11,17 @@ Follow [`@sethmlarson` on Twitter](https://twitter.com/sethmlarson) and check ou
 More posts on [sethmlarson.dev](https://sethmlarson.dev)
 </td><td valign="top">
 
-### Other content
+### 📦 Releases
 <!-- other starts -->
-* [TALK: Bridge the Gap: Python Data Science and Elasticsearch (EMEA/APAC)](https://www.elastic.co/elasticon/global/agenda?day=day-2&solutionProduct=null&type=null&technicalLevel=null) 2020-10-15
-* [TALK: Bridge the Gap: Python Data Science and Elasticsearch (AMER)](https://www.elastic.co/elasticon/global/agenda?day=day-1&solutionProduct=null&type=null&technicalLevel=null) 2020-10-14
-* [TALK: Introduction into the Elasticsearch Python Client](https://www.youtube.com/watch?v=UWR9G-U88X0) 2020-09-10
-* [INTERVIEW: How urllib3 maintainer Seth Larson streamlined the release process](https://blog.tidelift.com/how-urllib3-maintainer-seth-larson-streamlined-the-release-process) 2020-08-18
-* [TALK: Introduction to the Python Elasticsearch Client](https://community.elastic.co/events/details/elastic-emea-virtual-presents-introduction-into-the-python-elasticsearch-client) 2020-08-05
+* [urllib3-1.26.2](https://pypi.org/project/urllib3/1.26.2) 2020-11-12
+* [urllib3-1.26.1](https://pypi.org/project/urllib3/1.26.1) 2020-11-11
+* [requests-2.25.0](https://pypi.org/project/requests/2.25.0) 2020-11-11
+* [elastic-enterprise-search-7.10.0b1](https://pypi.org/project/elastic-enterprise-search/7.10.0b1) 2020-11-11
+* [elasticsearch7-7.10.0](https://pypi.org/project/elasticsearch7/7.10.0) 2020-11-11
+* [elasticsearch-7.10.0](https://pypi.org/project/elasticsearch/7.10.0) 2020-11-11
+* [urllib3-1.26.0](https://pypi.org/project/urllib3/1.26.0) 2020-11-10
+* [elastic-enterprise-search-7.10.0a1](https://pypi.org/project/elastic-enterprise-search/7.10.0a1) 2020-11-05
+* [psl-2020.11.4](https://pypi.org/project/psl/2020.11.4) 2020-11-04
+* [brotlipy-0.7.0](https://pypi.org/project/brotlipy/0.7.0) 2020-11-02
 <!-- other ends -->
 </td></tr></table>
