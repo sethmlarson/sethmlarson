@@ -13,6 +13,7 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 
 ### 📦 Releases
 <!-- other starts -->
+* [hstspreload-2020.11.21](https://pypi.org/project/hstspreload/2020.11.21) 2020-11-21
 * [urllib3-1.26.2](https://pypi.org/project/urllib3/1.26.2) 2020-11-12
 * [urllib3-1.26.1](https://pypi.org/project/urllib3/1.26.1) 2020-11-11
 * [requests-2.25.0](https://pypi.org/project/requests/2.25.0) 2020-11-11
@@ -22,6 +23,5 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 * [urllib3-1.26.0](https://pypi.org/project/urllib3/1.26.0) 2020-11-10
 * [elastic-enterprise-search-7.10.0a1](https://pypi.org/project/elastic-enterprise-search/7.10.0a1) 2020-11-05
 * [psl-2020.11.4](https://pypi.org/project/psl/2020.11.4) 2020-11-04
-* [brotlipy-0.7.0](https://pypi.org/project/brotlipy/0.7.0) 2020-11-02
 <!-- other ends -->
 </td></tr></table>
