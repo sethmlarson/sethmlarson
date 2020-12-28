@@ -2,11 +2,11 @@
 
 ### 📰 Blog
 <!-- blog starts -->
+* [urllib3 Newsletter #3](http://sethmlarson.dev/blog/2020-12-28/urllib3-newsletter-3) 2020-12-28
 * [urllib3 Newsletter #2](http://sethmlarson.dev/blog/2020-11-13/urllib3-newsletter-2) 2020-11-13
 * [urllib3 Newsletter #1](http://sethmlarson.dev/blog/2020-10-05/urllib3-newsletter-september-2020) 2020-10-05
 * [API Design for Optional Async Context Managed Resources](http://sethmlarson.dev/blog/2020-08-10/api-design-for-an-async-open) 2020-08-10
 * [TIL: Getting HTTP Status Codes from Flask errorhandler](http://sethmlarson.dev/blog/2020-07-24/til-getting-http-status-codes-from-flask-errorhandler) 2020-07-24
-* [Designing Libraries for Async and Sync I/O](http://sethmlarson.dev/blog/2020-06-27/designing-libraries-for-async-and-sync-io) 2020-06-27
 <!-- blog ends -->
 More posts on [sethmlarson.dev](https://sethmlarson.dev)
 </td><td valign="top">
