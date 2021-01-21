@@ -12,6 +12,7 @@ pypi_projects = [
     "elastic-enterprise-search",
     "elasticsearch7",
     "elasticsearch",
+    "ecs-logging",
     "psl",
     "eland",
     "pyvbox",
