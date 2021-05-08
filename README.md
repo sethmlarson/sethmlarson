@@ -13,6 +13,7 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 
 ### 📦 Releases
 <!-- other starts -->
+* [rfc3986-1.5.0](https://pypi.org/project/rfc3986/1.5.0) 2021-05-07
 * [elasticsearch7-7.12.1](https://pypi.org/project/elasticsearch7/7.12.1) 2021-04-27
 * [elasticsearch-7.12.1](https://pypi.org/project/elasticsearch/7.12.1) 2021-04-27
 * [brotlicffi-1.0.9.2](https://pypi.org/project/brotlicffi/1.0.9.2) 2021-04-06
@@ -22,6 +23,5 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 * [elastic-transport-7.12.0](https://pypi.org/project/elastic-transport/7.12.0) 2021-03-22
 * [urllib3-1.26.4](https://pypi.org/project/urllib3/1.26.4) 2021-03-15
 * [elasticsearch-6.8.2](https://pypi.org/project/elasticsearch/6.8.2) 2021-03-09
-* [elastic-enterprise-search-7.11.0](https://pypi.org/project/elastic-enterprise-search/7.11.0) 2021-02-10
 <!-- other ends -->
 </td></tr></table>
