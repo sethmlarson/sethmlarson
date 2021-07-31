@@ -13,6 +13,7 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 
 ### 📦 Releases
 <!-- other starts -->
+* [distro-1.6.0](https://pypi.org/project/distro/1.6.0) 2021-07-30
 * [elasticsearch7-7.14.0a2](https://pypi.org/project/elasticsearch7/7.14.0a2) 2021-07-27
 * [elasticsearch-7.14.0a2](https://pypi.org/project/elasticsearch/7.14.0a2) 2021-07-27
 * [elasticsearch7-7.13.4](https://pypi.org/project/elasticsearch7/7.13.4) 2021-07-20
@@ -22,6 +23,5 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 * [elasticsearch7-7.14.0a1](https://pypi.org/project/elasticsearch7/7.14.0a1) 2021-07-13
 * [elasticsearch-7.14.0a1](https://pypi.org/project/elasticsearch/7.14.0a1) 2021-07-13
 * [elasticsearch7-7.13.3](https://pypi.org/project/elasticsearch7/7.13.3) 2021-07-07
-* [elasticsearch-7.13.3](https://pypi.org/project/elasticsearch/7.13.3) 2021-07-07
 <!-- other ends -->
 </td></tr></table>
