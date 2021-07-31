@@ -43,6 +43,7 @@ pypi_projects = [
     "brotlipy",
     "brotlicffi",
     "requests",
+    "distro",
 ]
 
 
