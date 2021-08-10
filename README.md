@@ -13,6 +13,7 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 
 ### 📦 Releases
 <!-- other starts -->
+* [eland-7.14.0b1](https://pypi.org/project/eland/7.14.0b1) 2021-08-09
 * [elastic-enterprise-search-7.14.0](https://pypi.org/project/elastic-enterprise-search/7.14.0) 2021-08-05
 * [elasticsearch7-7.14.0](https://pypi.org/project/elasticsearch7/7.14.0) 2021-08-03
 * [elasticsearch-7.14.0](https://pypi.org/project/elasticsearch/7.14.0) 2021-08-03
@@ -22,6 +23,5 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 * [elasticsearch7-7.14.0a2](https://pypi.org/project/elasticsearch7/7.14.0a2) 2021-07-27
 * [elasticsearch-7.14.0a2](https://pypi.org/project/elasticsearch/7.14.0a2) 2021-07-27
 * [elasticsearch7-7.13.4](https://pypi.org/project/elasticsearch7/7.13.4) 2021-07-20
-* [elasticsearch-7.13.4](https://pypi.org/project/elasticsearch/7.13.4) 2021-07-20
 <!-- other ends -->
 </td></tr></table>
