@@ -13,15 +13,15 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 
 ### 📦 Releases
 <!-- other starts -->
+* [urllib3-1.26.7](https://pypi.org/project/urllib3/1.26.7) 2021-09-22
+* [ecs-logging-1.0.2](https://pypi.org/project/ecs-logging/1.0.2) 2021-09-22
+* [elasticsearch7-7.15.0](https://pypi.org/project/elasticsearch7/7.15.0) 2021-09-22
+* [elasticsearch-7.15.0](https://pypi.org/project/elasticsearch/7.15.0) 2021-09-22
 * [elasticsearch7-7.14.2](https://pypi.org/project/elasticsearch7/7.14.2) 2021-09-21
 * [elasticsearch-7.14.2](https://pypi.org/project/elasticsearch/7.14.2) 2021-09-21
 * [elastic-transport-7.15.0](https://pypi.org/project/elastic-transport/7.15.0) 2021-09-20
 * [elasticsearch7-7.15.0a1](https://pypi.org/project/elasticsearch7/7.15.0a1) 2021-09-09
 * [elasticsearch-7.15.0a1](https://pypi.org/project/elasticsearch/7.15.0a1) 2021-09-09
 * [brotlipy-0.7.0](https://pypi.org/project/brotlipy/0.7.0) 2021-09-02
-* [elasticsearch7-7.14.1](https://pypi.org/project/elasticsearch7/7.14.1) 2021-09-01
-* [elasticsearch-7.14.1](https://pypi.org/project/elasticsearch/7.14.1) 2021-09-01
-* [hstspreload-2021.9.1](https://pypi.org/project/hstspreload/2021.9.1) 2021-09-01
-* [eland-7.14.1b1](https://pypi.org/project/eland/7.14.1b1) 2021-08-30
 <!-- other ends -->
 </td></tr></table>
