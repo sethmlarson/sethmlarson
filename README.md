@@ -13,6 +13,8 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 
 ### 📦 Releases
 <!-- other starts -->
+* [elasticsearch8-8.1.1](https://pypi.org/project/elasticsearch8/8.1.1) 2022-03-22
+* [elasticsearch-8.1.1](https://pypi.org/project/elasticsearch/8.1.1) 2022-03-22
 * [urllib3-1.26.9](https://pypi.org/project/urllib3/1.26.9) 2022-03-16
 * [elastic-transport-8.1.0](https://pypi.org/project/elastic-transport/8.1.0) 2022-03-09
 * [elasticsearch8-8.1.0](https://pypi.org/project/elasticsearch8/8.1.0) 2022-03-08
@@ -21,7 +23,5 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 * [elasticsearch8-8.0.1](https://pypi.org/project/elasticsearch8/8.0.1) 2022-03-01
 * [elasticsearch-8.0.1](https://pypi.org/project/elasticsearch/8.0.1) 2022-03-01
 * [elasticsearch7-7.17.1](https://pypi.org/project/elasticsearch7/7.17.1) 2022-02-28
-* [elasticsearch-7.17.1](https://pypi.org/project/elasticsearch/7.17.1) 2022-02-28
-* [distro-1.7.0](https://pypi.org/project/distro/1.7.0) 2022-02-15
 <!-- other ends -->
 </td></tr></table>
