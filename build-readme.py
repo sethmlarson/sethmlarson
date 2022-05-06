@@ -44,6 +44,7 @@ pypi_projects = [
     "brotlicffi",
     "requests",
     "distro",
+    "truststore",
 ]
 
 
