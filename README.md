@@ -15,13 +15,13 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 <!-- other starts -->
 * [ecs-logging-2.0.0](https://pypi.org/project/ecs-logging/2.0.0) 2022-05-18
 * [eland-8.2.0](https://pypi.org/project/eland/8.2.0) 2022-05-11
-* [truststore-0.4.0](https://pypi.org/project/truststore/0.4.0) 2022-05-05
 * [elastic-enterprise-search-8.2.0](https://pypi.org/project/elastic-enterprise-search/8.2.0) 2022-05-05
 * [elasticsearch8-8.2.0](https://pypi.org/project/elasticsearch8/8.2.0) 2022-05-03
 * [elasticsearch-8.2.0](https://pypi.org/project/elasticsearch/8.2.0) 2022-05-03
-* [truststore-0.3.0](https://pypi.org/project/truststore/0.3.0) 2022-04-29
 * [elasticsearch-7.17.3](https://pypi.org/project/elasticsearch/7.17.3) 2022-04-26
 * [elasticsearch7-7.17.3](https://pypi.org/project/elasticsearch7/7.17.3) 2022-04-26
 * [elasticsearch8-8.1.3](https://pypi.org/project/elasticsearch8/8.1.3) 2022-04-26
+* [elasticsearch-8.1.3](https://pypi.org/project/elasticsearch/8.1.3) 2022-04-26
+* [elastic-transport-8.1.2](https://pypi.org/project/elastic-transport/8.1.2) 2022-04-19
 <!-- other ends -->
 </td></tr></table>
