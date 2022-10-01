@@ -13,15 +13,15 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 
 ### 📦 Releases
 <!-- other starts -->
+* [psl-2022.9.26](https://pypi.org/project/psl/2022.9.26) 2022-09-26
+* [elasticsearch8-8.4.2](https://pypi.org/project/elasticsearch8/8.4.2) 2022-09-20
+* [elasticsearch-8.4.2](https://pypi.org/project/elasticsearch/8.4.2) 2022-09-20
+* [elasticsearch8-8.4.1](https://pypi.org/project/elasticsearch8/8.4.1) 2022-09-06
+* [elasticsearch-8.4.1](https://pypi.org/project/elasticsearch/8.4.1) 2022-09-06
+* [sniffio-1.3.0](https://pypi.org/project/sniffio/1.3.0) 2022-09-01
+* [hstspreload-2022.9.1](https://pypi.org/project/hstspreload/2022.9.1) 2022-09-01
 * [psl-2022.8.29](https://pypi.org/project/psl/2022.8.29) 2022-08-29
 * [elastic-enterprise-search-8.4.0](https://pypi.org/project/elastic-enterprise-search/8.4.0) 2022-08-25
 * [elasticsearch8-8.4.0](https://pypi.org/project/elasticsearch8/8.4.0) 2022-08-25
-* [elasticsearch-8.4.0](https://pypi.org/project/elasticsearch/8.4.0) 2022-08-25
-* [elasticsearch7-7.17.6](https://pypi.org/project/elasticsearch7/7.17.6) 2022-08-25
-* [elasticsearch-7.17.6](https://pypi.org/project/elasticsearch/7.17.6) 2022-08-25
-* [elasticsearch7-7.17.5](https://pypi.org/project/elasticsearch7/7.17.5) 2022-08-25
-* [elasticsearch-7.17.5](https://pypi.org/project/elasticsearch/7.17.5) 2022-08-25
-* [elastic-transport-8.4.0](https://pypi.org/project/elastic-transport/8.4.0) 2022-08-25
-* [urllib3-1.26.12](https://pypi.org/project/urllib3/1.26.12) 2022-08-22
 <!-- other ends -->
 </td></tr></table>
