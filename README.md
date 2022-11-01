@@ -13,15 +13,15 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 
 ### 📦 Releases
 <!-- other starts -->
+* [elasticsearch7-7.17.7](https://pypi.org/project/elasticsearch7/7.17.7) 2022-10-26
+* [elasticsearch-7.17.7](https://pypi.org/project/elasticsearch/7.17.7) 2022-10-26
+* [psl-2022.10.17](https://pypi.org/project/psl/2022.10.17) 2022-10-17
+* [distro-1.8.0](https://pypi.org/project/distro/1.8.0) 2022-10-10
+* [psl-2022.10.10](https://pypi.org/project/psl/2022.10.10) 2022-10-10
+* [elasticsearch8-8.4.3](https://pypi.org/project/elasticsearch8/8.4.3) 2022-10-06
+* [elasticsearch-8.4.3](https://pypi.org/project/elasticsearch/8.4.3) 2022-10-06
+* [psl-2022.10.3](https://pypi.org/project/psl/2022.10.3) 2022-10-03
+* [hstspreload-2022.10.1](https://pypi.org/project/hstspreload/2022.10.1) 2022-10-01
 * [psl-2022.9.26](https://pypi.org/project/psl/2022.9.26) 2022-09-26
-* [elasticsearch8-8.4.2](https://pypi.org/project/elasticsearch8/8.4.2) 2022-09-20
-* [elasticsearch-8.4.2](https://pypi.org/project/elasticsearch/8.4.2) 2022-09-20
-* [elasticsearch8-8.4.1](https://pypi.org/project/elasticsearch8/8.4.1) 2022-09-06
-* [elasticsearch-8.4.1](https://pypi.org/project/elasticsearch/8.4.1) 2022-09-06
-* [sniffio-1.3.0](https://pypi.org/project/sniffio/1.3.0) 2022-09-01
-* [hstspreload-2022.9.1](https://pypi.org/project/hstspreload/2022.9.1) 2022-09-01
-* [psl-2022.8.29](https://pypi.org/project/psl/2022.8.29) 2022-08-29
-* [elastic-enterprise-search-8.4.0](https://pypi.org/project/elastic-enterprise-search/8.4.0) 2022-08-25
-* [elasticsearch8-8.4.0](https://pypi.org/project/elasticsearch8/8.4.0) 2022-08-25
 <!-- other ends -->
 </td></tr></table>
