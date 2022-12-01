@@ -13,15 +13,15 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 
 ### 📦 Releases
 <!-- other starts -->
+* [psl-2022.11.28](https://pypi.org/project/psl/2022.11.28) 2022-11-28
+* [urllib3-2.0.0a2](https://pypi.org/project/urllib3/2.0.0a2) 2022-11-23
+* [urllib3-1.26.13](https://pypi.org/project/urllib3/1.26.13) 2022-11-23
+* [elasticsearch8-8.5.2](https://pypi.org/project/elasticsearch8/8.5.2) 2022-11-23
+* [elasticsearch-8.5.2](https://pypi.org/project/elasticsearch/8.5.2) 2022-11-23
+* [elasticsearch8-8.5.1](https://pypi.org/project/elasticsearch8/8.5.1) 2022-11-21
+* [elasticsearch-8.5.1](https://pypi.org/project/elasticsearch/8.5.1) 2022-11-21
+* [psl-2022.11.21](https://pypi.org/project/psl/2022.11.21) 2022-11-21
 * [urllib3-2.0.0a1](https://pypi.org/project/urllib3/2.0.0a1) 2022-11-15
 * [psl-2022.11.14](https://pypi.org/project/psl/2022.11.14) 2022-11-14
-* [psl-2022.11.7](https://pypi.org/project/psl/2022.11.7) 2022-11-07
-* [elasticsearch8-8.5.0](https://pypi.org/project/elasticsearch8/8.5.0) 2022-11-02
-* [elasticsearch-8.5.0](https://pypi.org/project/elasticsearch/8.5.0) 2022-11-02
-* [hstspreload-2022.11.1](https://pypi.org/project/hstspreload/2022.11.1) 2022-11-01
-* [elasticsearch7-7.17.7](https://pypi.org/project/elasticsearch7/7.17.7) 2022-10-26
-* [elasticsearch-7.17.7](https://pypi.org/project/elasticsearch/7.17.7) 2022-10-26
-* [psl-2022.10.17](https://pypi.org/project/psl/2022.10.17) 2022-10-17
-* [distro-1.8.0](https://pypi.org/project/distro/1.8.0) 2022-10-10
 <!-- other ends -->
 </td></tr></table>
