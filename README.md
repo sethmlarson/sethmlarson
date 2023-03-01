@@ -13,15 +13,15 @@ More posts on [sethmlarson.dev](https://sethmlarson.dev)
 
 ### 📦 Releases
 <!-- other starts -->
+* [psl-2023.2.27](https://pypi.org/project/psl/2023.2.27) 2023-02-27
+* [psl-2023.2.20](https://pypi.org/project/psl/2023.2.20) 2023-02-20
+* [elasticsearch8-8.6.2](https://pypi.org/project/elasticsearch8/8.6.2) 2023-02-16
+* [elasticsearch-8.6.2](https://pypi.org/project/elasticsearch/8.6.2) 2023-02-16
+* [psl-2023.2.13](https://pypi.org/project/psl/2023.2.13) 2023-02-13
+* [psl-2023.2.6](https://pypi.org/project/psl/2023.2.6) 2023-02-06
 * [elasticsearch7-7.17.9](https://pypi.org/project/elasticsearch7/7.17.9) 2023-02-02
 * [elasticsearch-7.17.9](https://pypi.org/project/elasticsearch/7.17.9) 2023-02-02
 * [elasticsearch8-8.6.1](https://pypi.org/project/elasticsearch8/8.6.1) 2023-01-27
 * [elasticsearch-8.6.1](https://pypi.org/project/elasticsearch/8.6.1) 2023-01-27
-* [requests-2.28.2](https://pypi.org/project/requests/2.28.2) 2023-01-12
-* [urllib3-1.26.14](https://pypi.org/project/urllib3/1.26.14) 2023-01-11
-* [urllib3-2.0.0a3](https://pypi.org/project/urllib3/2.0.0a3) 2023-01-11
-* [elasticsearch8-8.6.0](https://pypi.org/project/elasticsearch8/8.6.0) 2023-01-10
-* [elasticsearch-8.6.0](https://pypi.org/project/elasticsearch/8.6.0) 2023-01-10
-* [hstspreload-2023.1.1](https://pypi.org/project/hstspreload/2023.1.1) 2023-01-01
 <!-- other ends -->
 </td></tr></table>
